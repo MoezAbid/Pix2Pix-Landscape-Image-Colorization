@@ -1,0 +1,11 @@
+PIL
+numpy
+matplotlib
+tqdm
+tensorflow-gpu
+keras
+visualkeras
+kaggle
+opencv-python
+tensorflow-addons
+opencv-python
